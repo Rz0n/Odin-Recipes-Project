@@ -1,0 +1,15 @@
+* {
+  font-family: 'Times New Roman', Times, serif;
+  font-style: italic;
+}
+
+.head {
+  font-size: 40px;
+  font-weight: bold;
+  text-decoration: underline;
+  text-align: center;
+}
+
+.info {
+  font-size: 25px;
+}
