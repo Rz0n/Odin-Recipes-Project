@@ -1,0 +1,29 @@
+* {
+  font-family: 'Times New Roman', Times, serif;
+  font-style: italic;
+  background-color: rgb(212, 208, 208);
+}
+
+.header {
+  font-size: 30px;
+  text-decoration: underline;
+  text-align: center;
+}
+
+.info {
+  font-size: 26px;
+} 
+
+
+.ingrediance,
+.direction {
+  font-size: 26px;
+}
+
+ul > li {
+  font-size: 20px;
+}
+
+ol > li {
+  font-size: 20px;
+}
