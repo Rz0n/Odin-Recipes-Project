@@ -1,6 +1,7 @@
 * {
   font-family: 'Times New Roman', Times, serif;
   font-style: italic;
+  background-color: rgb(216, 214, 214);
 }
 
 .head {
@@ -12,4 +13,21 @@
 
 .info {
   font-size: 25px;
+}
+
+.ingrediance {
+  font-size: 24px;
+
+}
+
+ul > li {
+  font-size: 20px;
+}
+
+.direction {
+  font-size: 24px;
+}
+
+ol > li {
+  font-size: 20px;
 }
